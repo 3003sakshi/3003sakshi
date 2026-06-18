@@ -1,30 +1,77 @@
 # Hi, I'm Sakshi Shekhawat 👋
-### AI & Data Science Engineer | Computer Vision | Cybersecurity
 
-Final year B.E. student at MBM University specializing in end-to-end machine learning pipelines, secure computer vision applications, and data privacy frameworks.
+### AI & Data Science Engineer | Computer Vision | Privacy-Focused AI Systems
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, JavaScript, C++, C, SQL
-- **AI / ML & CV:** MediaPipe, Scikit-learn, OpenCV, CNN Architectures
-- **Web Tech:** React.js, Node.js, Express, MongoDB
-- **Security:** Cryptography (RSA), Ethical Hacking, Cyber Forensics
+Final year B.E. student at MBM University passionate about building practical AI systems using deep learning, computer vision, and local LLM pipelines.
 
 ---
 
-## 🚀 Key Highlights
+# 🛰 Experience
 
-- 🎖️ **- 🎖️ **Vocational Intern @ DRDO (DLJ):** Engineered a secure, offline deterministic information retrieval engine for defense environments. *(Repository private due to NDAs/security protocols)*
-- 🧘 **Yoga Pose Assessment:** Built an end-to-end computer vision pipeline extracting 33 skeletal keypoints to assess posture quality in real-time.
-- 🖐️ **Gesture Recognition:** Engineered a real-time tracking system applying localized image thresholding and contour analysis.
+## DRDO Internship
+
+Worked on AI-focused research and development concepts related to intelligent systems, defence technology, and secure computing applications.
 
 ---
 
-## 📬 Connect With Me
+# 🚀 Featured Projects
 
-- **LinkedIn:** [linkedin.com/in/sakshi-shekhawat-56a89937b](https://www.linkedin.com/in/sakshi-shekhawat-56a89937b)[cite: 1]
-- **Email:** sakshishekhawat3003@gmail.com
+## 🧘 AI Yoga Pose Recognition System
 
-⭐ Thanks for visiting!
+Deep learning-based yoga posture recognition and classification system using CNNs and computer vision techniques.
+
+**Tech:** Python • TensorFlow/Keras • OpenCV • Deep Learning
+
+---
+
+## ✋ GestureAssist-AI
+
+AI-powered gesture recognition system designed for intelligent interaction and accessibility-focused applications.
+
+**Tech:** Python • OpenCV • Computer Vision • Deep Learning
+
+---
+
+## 📄 Offline PDF Chatbot
+
+Privacy-focused offline PDF question-answering system using FAISS and local LLM pipelines.
+
+**Tech:** Python • FAISS • LangChain • Local LLMs
+
+---
+
+## 🫁 Pneumonia Detection Using Transfer Learning
+
+Medical imaging project using transfer learning techniques for pneumonia detection from chest X-ray datasets.
+
+**Tech:** Python • TensorFlow • CNNs • Transfer Learning
+
+---
+
+# 🛠 Tech Stack
+
+**Languages:** Python • C++ • JavaScript
+**AI/ML:** TensorFlow • Keras • Scikit-learn • OpenCV • FAISS • LangChain
+**Tools:** Git • GitHub • Jupyter Notebook • VS Code
+
+---
+
+# 🎯 Focus Areas
+
+* Computer Vision
+* Deep Learning
+* Generative AI
+* Defence Technology & AI
+* Privacy-Focused AI Systems
+
+---
+
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/3003sakshi
+* LinkedIn: https://www.linkedin.com/in/sakshi-shekhawat-56a89937b
+
+---
+
+> Build. Learn. Improve. Repeat.
